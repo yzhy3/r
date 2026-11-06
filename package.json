@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
-    "@whiskeysockets/baileys": "github:luisxitq/baileys",
+    "@whiskeysockets/baileys": "github:yzhy3/baileys",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "axios": "^0.24.0",
     "cfonts": "latest",
