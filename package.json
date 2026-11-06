@@ -23,7 +23,6 @@
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
     "@whiskeysockets/baileys": "^6.7.0",
-    "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "axios": "^0.24.0",
     "cfonts": "latest",
     "chalk": "^4.1.2",
@@ -33,7 +32,7 @@
     "gradient-string": "^2.0.2",
     "grapheme-splitter": "^1.0.4",
     "human-readable": "^0.2.1",
-    "jimp": "^0.22.6",
+    "jimp": "latest",
     "lodash": "latest",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.37",
